@@ -1,0 +1,6 @@
+{
+  "summary":  "Plan de implementación para la función de síntesis dinámica de la voz de Víctor Florencio al consultar palabras y frases en el Templo y Oráculo Sagrado, integrando servidor XTTS / Hugging Face con caché local inteligente y fallback continuo.",
+  "updatedAt":  "2026-11-08T22:04:48.568829277Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

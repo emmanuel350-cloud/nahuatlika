@@ -1,0 +1,6 @@
+{
+  "name": "Navegante",
+  "description": "Navegante: El sendero del habla y conocimiento ancestral náhuatl. Aprende de forma intuitiva con IA, racha diaria, 50 juegos interactivos, descargas en la nube y lecciones personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
